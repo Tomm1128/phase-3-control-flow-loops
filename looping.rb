@@ -36,5 +36,3 @@ def reverse_string(str)
   end
   newStr.join
 end
-
-reverse_string("Hello")
